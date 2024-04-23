@@ -1,0 +1,156 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+}
+.navbar-dark {
+  background-color: #f7eedd;
+}
+.cart {
+  margin-top: 6px;
+  height: 30px;
+  margin-bottom: 20px;
+}
+#search-button {
+  margin-top: 6px;
+  height: 45px;
+  margin-bottom: 20px;
+}
+
+.categories {
+  margin-top: 70px;
+  margin-bottom: 50px;
+}
+.row {
+  margin-bottom: 30px;
+}
+.img-fluid {
+  height: auto;
+  max-width: 100%;
+}
+.categories-list {
+  margin-left: 80px;
+  margin-right: 80px;
+}
+.img-fluid {
+  transition: transform 0.2s;
+}
+.img-fluid:hover {
+  transform: scale(1.03);
+}
+img {
+  margin-bottom: 20px;
+}
+.featureIcon {
+  height: 80px;
+}
+footer {
+  background-color: #f7eedd;
+}
+
+.align-right {
+  display: flex;
+  justify-content: end;
+}
+.logo {
+  margin-bottom: 0px;
+  height: 80px;
+}
+.crown {
+  height: 50px;
+  margin-top: 12px;
+}
+.form {
+  margin: 0px 650px 0px 650px;
+}
+.user {
+  height: 100px;
+  margin-bottom: 10%;
+}
+a {
+  text-decoration: none;
+  color: #34495e;
+}
+.cartTab {
+  width: 400px;
+  background-color: #353432;
+  color: #eee;
+  position: fixed;
+  top: 0;
+  right: -400px;
+  bottom: 0;
+  display: grid;
+  grid-template-rows: 70px 1fr 70px;
+  transition: 0.5s;
+}
+body.showCart .cartTab {
+  right: 0;
+}
+body.showCart .container {
+  transform: translateX(-250px);
+}
+.cartTab h1 {
+  padding: 20px;
+  margin: 0;
+  font-weight: 300;
+}
+.cartTab .btn {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+.cartTab button {
+  background-color: #e8bc0e;
+  border: none;
+  font-family: Poppins;
+  font-weight: 500;
+  cursor: pointer;
+}
+.cartTab .close {
+  background-color: #eee;
+}
+.listCart .item img {
+  width: 100%;
+}
+.listCart .item {
+  display: grid;
+  grid-template-columns: 70px 150px 50px 1fr;
+  gap: 10px;
+  text-align: center;
+  align-items: center;
+}
+.listCart .quantity span {
+  display: inline-block;
+  width: 25px;
+  height: 25px;
+  background-color: #eee;
+  border-radius: 50%;
+  color: #555;
+  cursor: pointer;
+}
+.listCart .quantity span:nth-child(2) {
+  background-color: transparent;
+  color: #eee;
+  cursor: auto;
+}
+.listCart .item:nth-child(even) {
+  background-color: #eee1;
+}
+.listCart {
+  overflow: auto;
+}
+.listCart::-webkit-scrollbar {
+  width: 0;
+}
+.btn.addCart {
+  background-color: red;
+  color: white;
+  border-radius: 10px;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.btn.addCart:hover {
+  background-color: darkred;
+}
+.img-fluid {
+  border-radius: 5%;
+}

@@ -1,0 +1,338 @@
+[
+  {
+    "id": 1,
+    "name": "Walk on the pink side",
+    "price": 1399,
+    "image": "images/00.webp"
+  },
+  {
+    "id": 2,
+    "name": "White Bralette Top",
+    "price": 699,
+    "image": "images/01.webp"
+  },
+  {
+    "id": 3,
+    "name": "TSS Originals: Floral Mirage",
+    "price": 1699,
+    "image": "images/02.webp"
+  },
+  {
+    "id": 4,
+    "name": "Scooby Doo: Huh",
+    "price": 599,
+    "image": "images/03.webp"
+  },
+  {
+    "id": 5,
+    "name": "Kung Fu Panda: Master of Chi",
+    "price": 999,
+    "image": "images/04.webp"
+  },
+  {
+    "id": 6,
+    "name": "Solids: Olive",
+    "price": 2399,
+    "image": "images/05.webp"
+  },
+  {
+    "id": 7,
+    "name": "Rick & Morty: Portal Runners",
+    "price": 2699,
+    "image": "images/06.webp"
+  },
+  {
+    "id": 8,
+    "name": "Top Gun: Maverick Polo",
+    "price": 599,
+    "image": "images/07.webp"
+  },
+  {
+    "id": 9,
+    "name": "Plaid: Black, Blue and Red",
+    "price": 1699,
+    "image": "images/shirts1.webp"
+  },
+  {
+    "id": 10,
+    "name": "Stripes: Blue, Reserved",
+    "price": 1499,
+    "image": "images/shirts2.webp"
+  },
+  {
+    "id": 11,
+    "name": "Mickey Mouse: Kaleidoscope",
+    "price": 1299,
+    "image": "images/shirts3.webp"
+  },
+  {
+    "id": 12,
+    "name": "Looney Tunes: Vintage",
+    "price": 1399,
+    "image": "images/shirts4.webp"
+  },
+  {
+    "id": 13,
+    "name": "Peanuts: Big 50",
+    "price": 1699,
+    "image": "images/shirts5.webp"
+  },
+  {
+    "id": 14,
+    "name": "Naruto: Kakashi Ninja",
+    "price": 1699,
+    "image": "images/shirts6.webp"
+  },
+  {
+    "id": 15,
+    "name": "Plaid: Cream, Green",
+    "price": 1499,
+    "image": "images/shirts7.webp"
+  },
+  {
+    "id": 16,
+    "name": "Deadpool: Logo",
+    "price": 1899,
+    "image": "images/shirts8.webp"
+  },
+  {
+    "id": 17,
+    "name": "TSS Originals: Comfrey",
+    "price": 2099,
+    "image": "images/jeans1.webp"
+  },
+  {
+    "id": 18,
+    "name": "Solids: Decadent Chocolate",
+    "price": 699,
+    "image": "images/jeans2.webp"
+  },
+  {
+    "id": 19,
+    "name": "Solids: Dusty Bowl",
+    "price": 2499,
+    "image": "images/jeans3.webp"
+  },
+  {
+    "id": 20,
+    "name": "Solids: Brady Blue",
+    "price": 2499,
+    "image": "images/jeans4.webp"
+  },
+  {
+    "id": 21,
+    "name": "TSS Originals: Dark Midnight",
+    "price": 2199,
+    "image": "images/jeans5.webp"
+  },
+  {
+    "id": 22,
+    "name": "TSS Originals: Dark Sapphire",
+    "price": 1999,
+    "image": "images/jeans6.webp"
+  },
+  {
+    "id": 23,
+    "name": "Denim: Olive Indie",
+    "price": 1699,
+    "image": "images/jeans7.webp"
+  },
+  {
+    "id": 24,
+    "name": "Solids: Ash Grey(Straight Fit)",
+    "price": 2199,
+    "image": "images/jeans8.webp"
+  },
+  {
+    "id": 25,
+    "name": "TSS Originals: Wandering Soul",
+    "price": 2199,
+    "image": "images/dress1.webp"
+  },
+  {
+    "id": 26,
+    "name": "FRIENDS: The One With The Doodle",
+    "price": 1699,
+    "image": "images/dress2.webp"
+  },
+  {
+    "id": 27,
+    "name": "Mickey Mouse: Expressions",
+    "price": 1599,
+    "image": "images/dress3.webp"
+  },
+  {
+    "id": 28,
+    "name": "Colourblock: Coral",
+    "price": 1199,
+    "image": "images/dress4.webp"
+  },
+  {
+    "id": 29,
+    "name": "Looney Tunes: Nervous Bugs",
+    "price": 1699,
+    "image": "images/dress5.webp"
+  },
+  {
+    "id": 30,
+    "name": "TSS: Pink & Blue",
+    "price": 1899,
+    "image": "images/dress6.webp"
+  },
+  {
+    "id": 31,
+    "name": "TSS Originals: Tartan Hearts",
+    "price": 1499,
+    "image": "images/dress7.webp"
+  },
+  {
+    "id": 32,
+    "name": "TSS Originals: Seaside Bloom",
+    "price": 1699,
+    "image": "images/dress8.webp"
+  },
+  {
+    "id": 33,
+    "name": "Cotton Linen: Pink",
+    "price": 1499,
+    "image": "images/shirt1.webp"
+  },
+  {
+    "id": 34,
+    "name": "TSS Originals: Wanderlust",
+    "price": 1499,
+    "image": "images/shirt2.webp"
+  },
+  {
+    "id": 35,
+    "name": "Looney Tunes: Indie Vibes",
+    "price": 1699,
+    "image": "images/shirt3.webp"
+  },
+  {
+    "id": 36,
+    "name": "TSS Originals: Floral Yin Yang",
+    "price": 1699,
+    "image": "images/shirt4.webp"
+  },
+  {
+    "id": 37,
+    "name": "Mesh Shirt: Mickey Mouse Abstract",
+    "price": 1799,
+    "image": "images/shirt5.webp"
+  },
+  {
+    "id": 38,
+    "name": "Solids: Green Ash",
+    "price": 999,
+    "image": "images/shirt6.webp"
+  },
+  {
+    "id": 39,
+    "name": "TSS Originals: Floral Mirage",
+    "price": 1699,
+    "image": "images/shirt7.webp"
+  },
+  {
+    "id": 40,
+    "name": "Cotton Linen: Blue Tint",
+    "price": 1499,
+    "image": "images/shirt8.webp"
+  },
+  {
+    "id": 41,
+    "name": "FRIENDS: The One with Unagi",
+    "price": 799,
+    "image": "images/tops1.webp"
+  },
+  {
+    "id": 42,
+    "name": "Solids: Hot Pink",
+    "price": 599,
+    "image": "images/tops2.webp"
+  },
+  {
+    "id": 43,
+    "name": "Mesh Top: Jungle Book",
+    "price": 999,
+    "image": "images/tops3.webp"
+  },
+  {
+    "id": 44,
+    "name": "Solids: Black",
+    "price": 599,
+    "image": "images/tops4.webp"
+  },
+  {
+    "id": 45,
+    "name": "Solids: White",
+    "price": 499,
+    "image": "images/tops5.webp"
+  },
+  {
+    "id": 46,
+    "name": "TSS Originals: Fearless",
+    "price": 799,
+    "image": "images/tops6.webp"
+  },
+  {
+    "id": 47,
+    "name": "Solids: White",
+    "price": 599,
+    "image": "images/tops7.webp"
+  },
+  {
+    "id": 48,
+    "name": "TSS Originals: Checkered Bellflower",
+    "price": 599,
+    "image": "images/tops8.webp"
+  },
+  {
+    "id": 49,
+    "name": "Lord of The Rings: You Shall Not Pass",
+    "price": 999,
+    "image": "images/tshirt1.webp"
+  },
+  {
+    "id": 50,
+    "name": "TSS Originals: Warrior",
+    "price": 999,
+    "image": "images/tshirt4.webp"
+  },
+  {
+    "id": 51,
+    "name": "One Piece: Going Merry",
+    "price": 1049,
+    "image": "images/tshirt2.webp"
+  },
+  {
+    "id": 52,
+    "name": "Black Panther: Panther Power",
+    "price": 899,
+    "image": "images/tshirt3.webp"
+  },
+  {
+    "id": 53,
+    "name": "Looney Tunes: The Daffy Sketch",
+    "price": 999,
+    "image": "images/tshirt5.webp"
+  },
+  {
+    "id": 54,
+    "name": "Spider-Man: Saving The Spider-Verse",
+    "price": 1299,
+    "image": "images/tshirt7.webp"
+  },
+  {
+    "id": 55,
+    "name": "The Boys: The Real Hero",
+    "price": 899,
+    "image": "images/tshirt6.webp"
+  },
+  {
+    "id": 56,
+    "name": "Enter The Dragon: Bruce Lee",
+    "price": 799,
+    "image": "images/tshirt8.webp"
+  }
+]
